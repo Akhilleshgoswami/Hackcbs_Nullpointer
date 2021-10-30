@@ -1,7 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-}
+
 .main {
   max-height: 550px;;
   background-color: #262626;
@@ -177,4 +174,3 @@ footer{
   }
 
 }
-</pre>
