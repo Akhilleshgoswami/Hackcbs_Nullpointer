@@ -9,6 +9,8 @@ import './Register.css'
 import AttachMoneyIcon from "@mui/icons-material/AttachMoney";
 import { LocalConvenienceStoreOutlined, PermMedia } from "@mui/icons-material";
 import { Grid, TextField } from "@mui/material";
+
+
 function Register() {
   const [state, setstate] = useState("");
   console.log(state);

@@ -13,23 +13,22 @@ function App() {
 
     <>
       <Navbar/>
-    </>
-
+    
     <div className="App">
- <Switch>
+        <Switch>
 
           {/* <Route path="/moreInfo" component={Detiles}>
           <Detiles/>
           </Route> */}
           <EngagementCardDemo/>
 
-<Property/>     
+        <Property/>     
 
-   </Switch>
+      </Switch>
 
     </div>
 
-
+    </>
   );
 }
 
