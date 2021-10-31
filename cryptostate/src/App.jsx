@@ -11,6 +11,7 @@ import Cryptostate from "./abis/CryptoState.json";
 import Web3 from "web3";
 import { setstate } from "./ContextApi/Contextapi";
 import Footer from "./Componenets/Footer/Footer";
+import How_it_works from "./Componenets/Middle/How_it_works";
 
 function App() {
   const [contract, setcontract] = useState();
@@ -58,6 +59,7 @@ const [account, setaccount] = useState()
     <setstate.Provider value={{ contract,account }}>
        <div className="App">
       <Navbar />
+      <How_it_works />
       <Switch>
         <Route path="/moreInfo" component={Detiles}>
           <Detiles />
