@@ -10,6 +10,7 @@ import Property from "./Componenets/Property_page/Property";
 import Cryptostate from "./abis/CryptoState.json";
 import Web3 from "web3";
 import { setstate } from "./ContextApi/Contextapi";
+import Footer from "./Componenets/Footer/Footer";
 
 function App() {
   const [contract, setcontract] = useState();
@@ -68,8 +69,12 @@ const [account, setaccount] = useState()
           <Property />
         </Route>
       </Switch>
+      <Footer />
     </div>
     </setstate.Provider>
+  
+
+  
    
   );
 }
