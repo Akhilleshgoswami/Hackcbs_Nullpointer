@@ -18,7 +18,7 @@
 
 
 # What's the issue we are trying to solve? 👈
-*nowadays There are a lot of fraud going on in the current real state system such as tempting with the property,selling single property to two or more persons, in India, when we buy or sell the property we use paperwork what if the paper lost, what if someone temper with  that paper what is someone modified that paper, in this condition we don't have any proof that this property belongs to us.
+* nowadays There are a lot of fraud going on in the current real state system such as tempting with the property,selling single property to two or more persons, in India, when we buy or sell the property we use paperwork what if the paper lost, what if someone temper with  that paper what is someone modified that paper, in this condition we don't have any proof that this property belongs to us.
 
 
 # Local development setup
