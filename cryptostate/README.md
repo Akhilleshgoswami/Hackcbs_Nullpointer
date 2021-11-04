@@ -1,7 +1,7 @@
 
 #CryptoState 
 
-## we build your trust 🤓💪🏻
+## We Build your Trust 🤓💪🏻
 ## [Demo](https://www.youtube.com/watch?v=1bvgDvetyp0)
 # Table Of Contents
 * What is this all about? 👀
@@ -21,15 +21,17 @@
 *nowadays There are a lot of fraud going on in the current real state system such as tempting with the property,selling single property to two or more persons, in India, when we buy or sell the property we use paperwork what if the paper lost, what if someone temper with  that paper what is someone modified that paper, in this condition we don't have any proof that this property belongs to us.
 
 
-# local development setup
+# Local development setup
 * clone the git repositories
 * npm i
 * install truffle 
 * install metamask
+* Create a test-net on metamask import first account from the ganache-cli 
 * install ganache 
 * run ganache-cli 
 * run truffle migrate --reset 
 * run npm start 
+* You are ready to go 
 
 
 
