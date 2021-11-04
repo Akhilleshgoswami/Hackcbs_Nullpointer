@@ -10,7 +10,7 @@
 * Technologies we used 👩🏻‍💻
 * Challenges we faced 😵 and how we tried to tackle them ! 🤓💪🏻
 * Future Plans for Project Healer 📝
-* Glimpse of Project Healer ✨
+<!-- * Glimpse of Project Healer ✨ -->
 
 # What is this all about? 👀
 * This is a Blockchain-based project that solves many problems of the current Real state system and makes it more secure and makes buying and selling property easy.It is based on the concept of the Non-Fungible Token Marketplace and treat the property as NFT and Uses ERC721 Token to build its all functionality. 
