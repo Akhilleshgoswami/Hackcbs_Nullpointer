@@ -1,7 +1,7 @@
 
 #CryptoState 
 
-## we build your trust 
+## we build your trust 🤓💪🏻
 ## [Demo](https://www.youtube.com/watch?v=1bvgDvetyp0)
 # Table Of Contents
 * What is this all about? 👀
