@@ -2,7 +2,7 @@
 # CryptoState 
 
 ## We Build your Trust 🤓💪🏻
-## [Demo](https://youtu.be/NhazzFAE4Zw) this demo uses web3 and blockchain we just want to show, if  we would  get success to  deploy our smart contract on Hedera then this how it will goning to work .
+## [Demo](https://youtu.be/NhazzFAE4Zw) this demo uses web3 and blockchain we just want to show, if  we would  get success to  deploy our smart contract on Hedera node then this how it will goning to work .
 # Table Of Contents
 * What is this all about? 👀
 * What's the issue we are trying to solve? 👈🏻
