@@ -53,7 +53,7 @@ Since all of us are beginners and this being our first hackathon, We faced chall
 *  Since we wanted to include useful content, so including well researched content in such shorter span was another bigggest challenge we faced  To tackle this I   divided the work and sacrificed sleep so as to provide well researched content to the users.
 *  Since the app was in react and in my team no one knows react accept so i had to handle all things such as front-end & backend both toghther.
 
-# Future Plans of Project Healer 📝
+# Future Plans of Project Cryptostate 📝
 * I will be going to work on it's front-end make it more user friedly.
 
 <!-- # Glimpse of Project Healer ✨ -->
