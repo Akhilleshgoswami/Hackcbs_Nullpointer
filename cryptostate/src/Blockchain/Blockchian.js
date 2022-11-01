@@ -33,7 +33,7 @@ import Web3 from 'web3'
     if (networkData) {
       scan = new web3.eth.Contract( Cryptostate.abi, networkData.address)
        console.log(scan)
-      console.log("successfully get contreact")
+      console.log("successfully get contract")
       return scan
 
     }
